@@ -23,8 +23,12 @@ The winner of the election was:
 
   -Diana DeGette, who received 272,892 number of votes, 73.8% of the total votes cast in the election.
 
-The image below highlights the results after the code was ran:
+The image below highlights the results after the code was ran as well as brief analitics on largest votes by county as 
+well as the largest county that voted:
 
 ![image](https://user-images.githubusercontent.com/101299252/182504737-6702d86c-d74b-4a4f-864b-59f37c1ecf1c.png)
+
+![image](https://user-images.githubusercontent.com/101299252/182505209-8101694d-7d8d-4dcf-917b-61e10aae16eb.png)
+
 
 
